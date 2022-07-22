@@ -1,0 +1,12 @@
+{
+    "name": "mindset-mastery",
+    "version": "1.0.0",
+    "description": "Understanding TDD mind-set by creating tests before code implementation",
+    "main": "fibonacci.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^28.1.3"
+    }
+}
